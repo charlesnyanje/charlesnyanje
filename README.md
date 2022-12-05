@@ -12,3 +12,6 @@ I'm a Software Engineer,Frontend developer. I'm passionate about sharing knowled
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing mailtocharleswilliam26@gmail.com
+
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesnyanje&theme=dark&show_icons=true)
